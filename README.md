@@ -1,5 +1,6 @@
 # Document-Index-for-Vector-Storage
 
+```
 {
   "chunk_id": "guideline_001_p1",
   "page": 1,
@@ -10,10 +11,11 @@
     "image_refs": []
   }
 }
-
+```
 
 image ref can be
 
+```
 "image_refs": [
   {
     "image_id": "img_guideline_p5_fig3",
@@ -23,3 +25,4 @@ image ref can be
     "page_region": "center"
   }
 ]
+```
