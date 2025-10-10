@@ -126,3 +126,13 @@ image ref can be
   }
 ]
 ```
+
+
+```
+[
+  {
+    "text": "8.2 Depending on the categories of digital currencies, LFIs are required to employ three-level controls... \n\nRefer image here: /mnt/data/b7a6ae54-6e9e-4935-90d2-66d99333dbbc.png \n\nFurther explanation continues on next section...\n\nPage 12 of 30",
+    "source": "https://www.labuanfsa.gov.my/.../guidelines.pdf"
+  }
+]
+```
